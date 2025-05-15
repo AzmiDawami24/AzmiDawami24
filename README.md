@@ -1,5 +1,8 @@
 ## Hi there! I'm **Azmi Ahmad Dawami**
 
+### Now I'm doing this
+[![Discord Presence](https://lanyard.cnrad.dev/api/722083917724647506)](https://discord.com/users/722083917724647506)
+
 ### Find me on social media
 ![https://open.spotify.com/user/chxf415esfxfnuq660t5pgl9c](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![https://instagram.com/azmidawami](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
