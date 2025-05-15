@@ -1,6 +1,6 @@
 ## Hi there! I'm **Azmi Ahmad Dawami**
 
-### Now I'm doing this
+### Contact me on **Discord!**
 [![Discord Presence](https://lanyard.cnrad.dev/api/722083917724647506)](https://discord.com/users/722083917724647506)
 
 ### Find me on social media
