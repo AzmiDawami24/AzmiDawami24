@@ -22,4 +22,4 @@
 
 ![https://id.pinterest.com/azmidawami/](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)
 
-### You can also support me with donate on [Saweria](https://saweria.co/azmidawami)!
+### You can also support me via [Saweria](https://saweria.co/azmidawami)!
